@@ -1,0 +1,13 @@
+name,email,password,role,avatarUrl
+Admin MesaNexo,admin@mesanexo.dev,Admin1234!,admin,
+Lucía García,venue1@mesanexo.dev,Venue1234!,venue,
+Carlos Ruiz,venue2@mesanexo.dev,Venue1234!,venue,
+Marta Peña,venue3@mesanexo.dev,Venue1234!,venue,
+Ana Torres,player1@mesanexo.dev,Player1234!,player,
+Bruno Díaz,player2@mesanexo.dev,Player1234!,player,
+Carla Moreno,player3@mesanexo.dev,Player1234!,player,
+Diego Soto,player4@mesanexo.dev,Player1234!,player,
+Elena Vega,player5@mesanexo.dev,Player1234!,player,
+Fran Ortiz,player6@mesanexo.dev,Player1234!,player,
+Gema Navarro,player7@mesanexo.dev,Player1234!,player,
+Hugo Lara,player8@mesanexo.dev,Player1234!,player,

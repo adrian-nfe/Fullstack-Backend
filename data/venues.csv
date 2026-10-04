@@ -1,0 +1,16 @@
+externalId,name,neighborhood,address,tables,openingHour,closingHour,pricePerHour,ownerEmail,description
+V-001,Dados y Café,Malasaña,Calle del Pez 12,8,16:00,00:00,6,venue1@mesanexo.dev,Café con estanterías de euros
+V-002,El Dragón Dormido,Lavapiés,Calle Argumosa 24,10,17:00,00:00,5,venue1@mesanexo.dev,Bar de barrio con torneos semanales
+V-003,Ficha y Taza,Chamberí,Calle Bravo Murillo 88,6,16:00,23:00,6,venue1@mesanexo.dev,Cafetería tranquila para eurogames
+V-004,La Taberna del Goblin,Moncloa,Calle Princesa 89,12,16:00,00:00,7,venue1@mesanexo.dev,Cervezas dados y ligas de miniaturas
+V-005,Café Meepel,Usera,Calle Nicolás Sánchez 5,5,17:00,23:00,4,venue1@mesanexo.dev,Rincón de meeples y tés
+V-006,Partida Doble,Vallecas,Calle Peña Gorbea 11,8,16:00,00:00,5,venue2@mesanexo.dev,Dos plantas y una pizarra de ligas
+V-007,El Cubilete de Chueca,Chueca,Calle Hortaleza 62,6,17:00,00:00,8,venue2@mesanexo.dev,Copas y cubiletas a partes iguales
+V-008,Naipes y Chocolate,La Latina,Calle Cava Baja 31,9,16:00,23:30,6,venue2@mesanexo.dev,Chocolate caliente y barajas
+V-009,La Torre de Marfil,Argüelles,Calle Andrés Mellado 19,4,16:30,23:00,7,venue2@mesanexo.dev,Sala íntima para duelos
+V-010,Dados del Norte,Prosperidad,Calle López de Hoyos 142,7,16:00,23:00,5,venue2@mesanexo.dev,Vecinos y dados tras el trabajo
+V-011,Café Würfel,Delicias,Paseo de las Delicias 45,6,16:00,23:00,4,venue3@mesanexo.dev,Würfeln y tostadas
+V-012,El Cofre,Embajadores,Calle Embajadores 148,10,17:00,00:00,5,venue3@mesanexo.dev,Antiguo almacén lleno de cofres con juegos
+V-013,Mesa Reina,Pacífico,Calle Doctor Esquerdo 12,6,16:00,23:00,6,venue3@mesanexo.dev,Pastelería de barrio con mesa grande
+V-014,La Grada Sur,Bernabéu,Paseo de la Castellana 210,8,16:00,00:00,9,venue3@mesanexo.dev,Partidos en pantalla y partidas en mesa
+V-015,El Jardín Secreto,Retiro,Calle Alfonso XII 58,5,16:00,23:00,4,venue3@mesanexo.dev,Patio con luz cálida junto al Retiro

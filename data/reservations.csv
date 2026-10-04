@@ -1,0 +1,41 @@
+externalId,venueExternalId,gameExternalId,userEmail,date,startTime,endTime,players,tableNumber,status,notes
+R-001,V-001,G-001,player1@mesanexo.dev,2026-09-12,18:00,21:00,4,3,confirmed,Quedada semanal
+R-002,V-001,G-008,player2@mesanexo.dev,2026-09-12,18:00,19:30,6,5,confirmed,Rompehielos previo
+R-003,V-001,G-013,player3@mesanexo.dev,2026-09-12,21:00,23:00,4,3,confirmed,Segunda ronda
+R-004,V-002,G-002,player4@mesanexo.dev,2026-09-05,17:30,19:30,2,1,confirmed,Duelo de mosaicos
+R-005,V-002,G-005,player5@mesanexo.dev,2026-09-05,20:00,21:30,5,2,confirmed,Historias raras
+R-006,V-002,G-029,player6@mesanexo.dev,2026-09-05,22:00,23:30,8,4,confirmed,Deducimos al infiltrado
+R-007,V-003,G-010,player7@mesanexo.dev,2026-09-18,16:30,20:30,3,1,confirmed,Euro largo de sábado
+R-008,V-003,G-014,player8@mesanexo.dev,2026-09-18,20:30,22:30,5,1,confirmed,Monstruos tras el café
+R-009,V-004,G-021,player1@mesanexo.dev,2026-09-26,16:00,20:00,4,1,confirmed,Campaña corta
+R-010,V-004,G-003,player2@mesanexo.dev,2026-09-26,20:00,22:00,4,1,confirmed,Trenes nocturnos
+R-011,V-005,G-033,player3@mesanexo.dev,2026-09-19,17:00,19:00,3,1,confirmed,Barrio en papel
+R-012,V-005,G-027,player4@mesanexo.dev,2026-09-19,19:00,20:30,4,2,confirmed,Sushi y té
+R-013,V-006,G-044,player5@mesanexo.dev,2026-10-02,17:00,21:00,4,1,confirmed,Martes marcianos
+R-014,V-006,G-067,player6@mesanexo.dev,2026-10-02,21:00,22:30,6,3,confirmed,Ensalada rápida
+R-015,V-007,G-051,player7@mesanexo.dev,2026-10-03,17:30,20:30,4,1,confirmed,Cumpleaños de Marta
+R-016,V-007,G-030,player8@mesanexo.dev,2026-10-03,21:00,23:00,7,2,confirmed,Traición entre copas
+R-017,V-008,G-006,player1@mesanexo.dev,2026-10-09,16:00,18:30,7,1,confirmed,Mesa grande para siete
+R-018,V-008,G-025,player2@mesanexo.dev,2026-10-09,18:30,20:00,5,1,confirmed,Fuegos artificiales
+R-019,V-009,G-057,player3@mesanexo.dev,2026-10-10,17:00,19:00,2,1,confirmed,Duelo de insectos
+R-020,V-009,G-055,player4@mesanexo.dev,2026-10-10,19:00,21:00,2,1,confirmed,Duelo de maravillas
+R-021,V-010,G-061,player5@mesanexo.dev,2026-10-16,16:30,19:00,4,1,confirmed,Vidrieras tras el curro
+R-022,V-010,G-069,player6@mesanexo.dev,2026-10-16,19:00,22:00,4,1,confirmed,El bosque se rebela
+R-023,V-011,G-076,player7@mesanexo.dev,2026-10-17,16:00,17:00,5,1,confirmed,Golpecito veloz
+R-024,V-011,G-079,player8@mesanexo.dev,2026-10-17,17:00,19:30,3,1,confirmed,Gatos y velas
+R-025,V-012,G-018,player1@mesanexo.dev,2026-10-23,17:00,20:00,6,1,confirmed,Vendimia nocturna
+R-026,V-012,G-037,player2@mesanexo.dev,2026-10-23,20:00,23:00,4,1,confirmed,El legacy continúa
+R-027,V-013,G-004,player3@mesanexo.dev,2026-10-24,16:00,18:00,4,1,confirmed,Aves antes de cenar
+R-028,V-013,G-020,player4@mesanexo.dev,2026-10-24,18:00,21:30,3,1,confirmed,Espíritus bravos
+R-029,V-014,G-012,player5@mesanexo.dev,2026-09-11,17:00,20:00,4,1,confirmed,Arrakis llama
+R-030,V-014,G-041,player6@mesanexo.dev,2026-09-11,20:00,23:00,3,1,confirmed,Rebaños al oeste
+R-031,V-015,G-017,player7@mesanexo.dev,2026-09-25,16:30,19:30,2,1,confirmed,Otoño en Everdell
+R-032,V-015,G-011,player8@mesanexo.dev,2026-09-25,19:30,22:30,4,1,confirmed,Zoológico nocturno
+R-033,V-001,G-023,player3@mesanexo.dev,2026-09-13,17:00,19:00,2,1,confirmed,Dominios dominicales
+R-034,V-001,G-027,player4@mesanexo.dev,2026-09-13,19:00,20:30,4,1,confirmed,Sushi veloz
+R-035,V-006,G-070,player1@mesanexo.dev,2026-10-30,17:00,20:00,5,2,confirmed,Guerra en Kemet
+R-036,V-007,G-031,player2@mesanexo.dev,2026-10-30,19:00,20:30,6,1,confirmed,Just One entre copas
+R-037,V-002,G-015,player5@mesanexo.dev,2026-10-31,18:00,20:00,5,1,confirmed,Halloween cooperativo
+R-038,V-004,G-077,player6@mesanexo.dev,2026-10-31,21:00,22:30,6,5,confirmed,Calaveras de noche
+R-039,V-003,G-009,player7@mesanexo.dev,2026-09-19,16:00,18:00,4,2,cancelled,Se enfermó medio grupo
+R-040,V-008,G-078,player8@mesanexo.dev,2026-10-16,20:00,22:00,6,3,confirmed,Fantasma a las ocho

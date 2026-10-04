@@ -1,0 +1,81 @@
+externalId,name,minPlayers,maxPlayers,playTimeMin,complexity,genre,publisher,year,language,imageUrl,description
+G-001,Catan,3,4,90,2,strategy,Kosmos,1995,es,,Clásico de colonos y comercio de recursos
+G-002,Azul,2,4,45,2,abstract,Plan B Games,2017,es,,Mosaicos portugueses de cerámica
+G-003,Ticket to Ride,2,5,60,2,family,Days of Wonder,2004,es,,Rutas de tren por el mapa
+G-004,Wingspan,1,5,70,3,euro,Stonemaier Games,2019,es,,Aves y cadenas de comida
+G-005,Dixit,3,6,30,1,party,Libellud,2008,es,,Imágenes oníricas y adivinanzas
+G-006,7 Wonders,2,7,30,2,strategy,Repos Production,2010,es,,Draft de civilizaciones antiguas
+G-007,Carcassonne,2,5,40,1,family,Hans im Glück,2000,es,,Colocación de losetas medievales
+G-008,Codenames,2,8,15,1,party,Czech Games Edition,2015,es,,Palabras clave y espías
+G-009,Pandemic,2,4,45,2,coop,Z-Man Games,2008,es,,Salva al mundo de cuatro virus
+G-010,Brass Birmingham,2,4,120,4,euro,Roxley,2018,en,,Industria en la Inglaterra victoriana
+G-011,Ark Nova,1,4,150,4,euro,Feuerland Spiele,2021,en,,Diseña tu zoológico moderno
+G-012,Dune Imperium,1,4,120,3,strategy,Dire Wolf,2020,en,,Estrategia y worker placement en Arrakis
+G-013,Splendor,2,4,30,2,euro,Space Cowboys,2014,es,,Gemas y desarrollo de minas
+G-014,King of Tokyo,2,6,30,1,party,IELLO,2011,es,,Kaijus peleando por Tokio
+G-015,The Crew,2,5,45,2,coop,Kosmos,2019,es,,Tareas coordinadas en el espacio
+G-016,Cascadia,1,4,45,2,family,Flatout Games,2021,es,,Hábitats del Pacífico noroeste
+G-017,Everdell,1,4,80,3,euro,Starling Games,2018,en,,Ciudad de animalitos del bosque
+G-018,Viticulture,1,6,90,3,euro,Stonemaier Games,2013,en,,Viñedos y vino italiano
+G-019,Scythe,1,5,115,3,strategy,Stonemaier Games,2016,es,,Europa alterna de los años 20
+G-020,Spirit Island,1,4,90,4,coop,Greater Than Games,2017,en,,Espíritus contra colonizadores
+G-021,Gloomhaven Jaws of the Lion,1,4,90,4,coop,Cephalofair Games,2020,en,,Campaña táctica de mazmorras
+G-022,Clank!,2,4,60,2,cards,Dire Wolf,2016,en,,Mazmorras y ruido peligroso
+G-023,Dominion,2,4,30,2,cards,Rio Grande Games,2008,es,,El deckbuilding original
+G-024,Star Realms,2,2,20,2,cards,White Wizard Games,2014,en,,Duelo de flotas espaciales
+G-025,Hanabi,2,5,25,2,coop,Cocktail Games,2010,es,,Fuegos artificiales a ciegas
+G-026,Love Letter,2,4,20,1,cards,Z-Man Games,2012,es,,Intriga corta en la corte
+G-027,Sushi Go!,2,5,15,1,cards,Gamewright,2013,es,,Draft rápido de sushi
+G-028,Exploding Kittens,2,5,15,1,party,Exploding Kittens,2015,es,,Gatitos explosivos y ruleta rusa
+G-029,Secret Hitler,5,10,45,2,party,Goat Wolf & Cabbage,2016,en,,Fascistas vs liberales
+G-030,Avalon,5,10,30,1,party,Indie Boards and Cards,2012,en,,Lealistas vs siervos de Mordred
+G-031,Just One,3,7,20,1,party,Repos Production,2018,es,,Una pista sin repetir
+G-032,Cartographers,1,4,45,1,family,Thunderworks Games,2019,en,,Cartografía con rollos de exploración
+G-033,Welcome To,1,6,30,1,family,Deep Water Games,2018,en,,Urbanismo años 50 con flip-and-write
+G-034,Kingdomino,2,4,20,1,family,Blue Orange Games,2016,es,,Dominós de reinos diminutos
+G-035,Draftosaurus,2,5,15,1,family,Lucky Duck Games,2019,es,,Dinosaurios en bolsas
+G-036,My City,1,4,30,2,legacy,Kosmos,2020,en,,Legacy de construcción urbana
+G-037,Pandemic Legacy Season 1,2,4,60,3,legacy,Z-Man Games,2015,en,,La campaña que lo cambió todo
+G-038,Charterstone,1,6,60,3,legacy,Stonemaier Games,2017,en,,Villa que se construye sola
+G-039,Sleeping Gods,1,4,90,4,coop,Red Raven Games,2021,en,,Odisea de barco y mitos
+G-040,A Feast for Odin,1,4,120,4,euro,Z-Man Games,2016,en,,Vikingos y puzzle de producción
+G-041,Great Western Trail,2,4,120,3,euro,eggertspiele,2016,en,,Vaqueros llevando rebaños
+G-042,Gaia Project,1,5,150,4,euro,Feuerland Spiele,2017,en,,Colonización planetaria tech
+G-043,Terra Mystica,2,5,150,4,euro,Feuerland Spiele,2012,en,,Facciones y terraformado clásico
+G-044,Terraforming Mars,1,5,120,3,euro,Stronghold Games,2016,en,,Corporaciones transformando Marte
+G-045,Underwater Cities,1,4,90,3,euro,Rio Grande Games,2018,en,,Metrópolis bajo el mar
+G-046,Marco Polo II,2,4,90,3,euro,Hans im Glück,2019,en,,De ruta por Asia medieval
+G-047,Lorenzo il Magnifico,2,4,90,3,euro,CMON,2016,en,,Renacimiento florentino
+G-048,Grand Austria Hotel,2,4,90,3,euro,Lookout Games,2015,en,,Atiende tu hotel vienés
+G-049,Nusfjord,1,5,60,3,euro,Lookout Games,2018,en,,Pesca nórdica con acciones de empresa
+G-050,Hallertau,1,4,90,3,euro,Lookout Games,2020,en,,El lúpulo bávaro manda
+G-051,The Castles of Burgundy,2,4,90,3,euro,Alea,2011,en,,Dados y principados franceses
+G-052,Bärenpark,2,4,45,2,euro,Lookout Games,2017,en,,Puzzle de osos polares
+G-053,Patchwork,2,2,30,2,euro,Mayfair Games,2014,es,,Duelo de colchas y botones
+G-054,Jaipur,2,2,30,2,cards,GameWorks,2009,es,,Comercio de especias en la ciudad rosa
+G-055,7 Wonders Duel,2,2,30,2,strategy,Repos Production,2015,es,,Civilizaciones cara a cara
+G-056,Targi,2,2,45,2,euro,Kosmos,2012,es,,Caravanas del Sáhara
+G-057,Hive,2,2,20,2,abstract,Gen42 Games,2009,es,,Ajedrez de insectos sin tablero
+G-058,Onitama,2,2,15,2,abstract,Arcane Wonders,2014,en,,Arte marcial de cartas cambiantes
+G-059,Santorini,2,4,20,2,abstract,Roxley,2016,en,,Construcción de templos griegos
+G-060,Blokus,2,4,20,1,abstract,Mattel Games,2000,es,,Piezas que no tocan
+G-061,Sagrada,1,4,45,2,abstract,Floodgate Games,2017,en,,Vidrieras de dados
+G-062,Calico,1,4,45,2,abstract,Paw Prints Games,2020,en,,Quilts y gatos dormilones
+G-063,Arboretum,2,4,30,2,cards,Renegade Game Studios,2015,en,,Jardines de árboles en mano
+G-064,Parade,2,6,45,2,cards,Z-Man Games,2007,en,,Desfile que nadie quiere engordar
+G-065,Coloretto,2,5,30,1,cards,Rio Grande Games,2003,es,,Camaleones y filas de cartas
+G-066,Biblios,2,4,30,2,cards,IELLO,2007,en,,Subastas de libros monásticos
+G-067,Point Salad,2,6,30,1,cards,Czech Games Edition,2019,es,,Ensalada de puntos y verduras
+G-068,Fort,2,4,45,2,cards,Leder Games,2020,en,,Casas del árbol y amistades
+G-069,Root,2,4,90,3,strategy,Leder Games,2018,en,,Guerra asimétrica del bosque
+G-070,Kemet,2,5,90,3,strategy,Matagot,2012,en,,Egipto y poderes divinos
+G-071,Cyclades,2,5,90,3,strategy,Matagot,2009,en,,Dioses griegos subastados
+G-072,Inis,2,4,90,3,strategy,Matagot,2016,en,,Clanes celtas y tierra sagrada
+G-073,Blood Rage,2,4,90,3,strategy,CMON,2015,en,,Vikingos del Ragnarök
+G-074,Rising Sun,3,5,120,3,strategy,CMON,2018,en,,Clanes feudales japoneses
+G-075,Ankh,2,5,120,3,strategy,CMON,2021,en,,Dioses egipcios en pugna
+G-076,Coup,2,6,15,2,party,Indie Boards and Cards,2012,en,,Bluff e influencias en La Pampa
+G-077,Skull,3,6,45,1,party,Asmodee,2011,es,,Rosas calaveras y apuestas
+G-078,Mysterium,2,7,45,2,coop,Libellud,2015,es,,Fantasma con cartas de sueños
+G-079,The Isle of Cats,1,4,75,2,family,City of Games,2019,en,,Rescata gatos del océano
+G-080,Meadow,1,4,60,2,family,Rebel Studio,2021,es,,Postales de naturaleza
